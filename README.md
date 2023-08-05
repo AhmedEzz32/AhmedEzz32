@@ -10,5 +10,5 @@ Hi, I'm Ahmed Ezz, Mobile App Developer 🚀.
 🔮 My dream is to be one of " Best Developers " around the world.
 📫 You can reach me on : ahmed.mobiledev@gmail.com
 💎 Fav Quotes:
-I will Not Give Up Until I Reach..
+I will Not Give Up Until I Reach...
 "Life is about Solving Problems".
