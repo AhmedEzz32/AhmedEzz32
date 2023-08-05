@@ -3,6 +3,8 @@
 [![Facebook Badge](https://img.shields.io/badge/AhmedEzz-30302f?style=flat&logo=facebook)](https://www.facebook.com/ahmed.ezz.965580)
 [![Gmail Badge](https://img.shields.io/badge/ahmed.mobiledev@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:ahmed.mobiledev@gmail.com)
 
+  <img src="https://github.com/AhmedEzz32/AhmedEzz32/blob/main/profile-img.png" align="right" width="25%"/>
+
 Hi, I'm Ahmed Ezz, Mobile App Developer 🚀.
 - 🐳 Flutter Developer , 
 - 💻 Self-taught Programmer.
