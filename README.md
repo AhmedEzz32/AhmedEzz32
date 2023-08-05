@@ -1,6 +1,5 @@
 Hi there 👋🏻 I'm Ahmed Ezz
 Linkedin Badge Facebook Badge Gmail Badge
-![profile-img](https://github.com/AhmedEzz32/AhmedEzz32/assets/132682073/6993bee3-2710-47b3-8bc6-6b80693a8de0)
 
 Hi, I'm Ahmed Ezz, Mobile App Developer 🚀.
 
