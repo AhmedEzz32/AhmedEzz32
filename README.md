@@ -1,5 +1,5 @@
 ### Hi there 👋🏻 I'm Ahmed Ezz
-[![Linkedin Badge]([https://img.shields.io/badge/AhmedEzz-30302f?style=flat&logo=linkedin&logoColor=white](https://cdn.imgbin.com/17/0/18/imgbin-linkedin-logo-linkedin-icons-no-attribution-link-in-logo-Rmkjsm9WVpNrBmyftxusqf60D.jpg))](https://www.linkedin.com/in/ahmed-ezz-888228254/)
+[![Facebook Badge](https://img.shields.io/badge/AhmedEzz-30302f?style=flat&logo=linkdin)](https://www.linkedin.com/in/ahmed-ezz-888228254/)
 [![Facebook Badge](https://img.shields.io/badge/AhmedEzz-30302f?style=flat&logo=facebook)](https://www.facebook.com/ahmed.ezz.965580)
 [![Gmail Badge](https://img.shields.io/badge/ahmed.mobiledev@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:ahmed.mobiledev@gmail.com)
 
